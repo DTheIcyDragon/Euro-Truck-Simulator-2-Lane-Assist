@@ -1,0 +1,2 @@
+Added more accurate custom sleep method.
+Fix divide by zero in fps limiter.
